@@ -7,6 +7,6 @@ I built a static website in order to save some time for the animation fun.
 
 The site is live here: [CLICK](http://newneighborhoodsfestival.com/).  
 
-![](http://img.olagjd.com/nnf-land-2.gif)
+![](http://img.aleksandragajda.com/nnf-land-2.gif)
 
-![](http://img.olagjd.com/nnf-art.gif)
+![](http://img.aleksandragajda.com/nnf-art.gif)
