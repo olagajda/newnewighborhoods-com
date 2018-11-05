@@ -5,8 +5,6 @@ The event needed a simple one-page website with line-up, presenation of artists 
 
 I built a static website in order to save some time for the animation fun.
 
-The site is live here: [CLICK](http://newneighborhoodsfestival.com/).  
-
 ![](http://img.aleksandragajda.com/nnf-land-2.gif)
 
 ![](http://img.aleksandragajda.com/nnf-art.gif)
